@@ -39,5 +39,3 @@ func createCardList() -> [Card] {
     
     return cardList
 }
-
-let faceDownCard = Card(text: "?")
